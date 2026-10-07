@@ -1,0 +1,17 @@
+com\smartstudy\model\Card.class
+com\smartstudy\controller\DeckController.class
+com\smartstudy\repository\QuizScoreRepository.class
+com\smartstudy\config\CorsConfig.class
+com\smartstudy\dto\ManualCardRequest.class
+com\smartstudy\model\Deck.class
+com\smartstudy\SmartStudyApplication.class
+com\smartstudy\service\DeckService.class
+com\smartstudy\model\QuizScore.class
+com\smartstudy\service\SmartGeneratorService.class
+com\smartstudy\service\SmartGeneratorService$CardDraft.class
+com\smartstudy\controller\ApiExceptionHandler.class
+com\smartstudy\repository\DeckRepository.class
+com\smartstudy\dto\CreateDeckRequest.class
+com\smartstudy\dto\ScoreRequest.class
+com\smartstudy\dto\GenerateDeckRequest.class
+com\smartstudy\dto\QuizQuestion.class

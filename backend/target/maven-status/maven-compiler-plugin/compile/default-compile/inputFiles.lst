@@ -1,0 +1,16 @@
+C:\Users\jayan\OneDrive\Desktop\Projects\StudeyBuddy\backend\src\main\java\com\smartstudy\config\CorsConfig.java
+C:\Users\jayan\OneDrive\Desktop\Projects\StudeyBuddy\backend\src\main\java\com\smartstudy\controller\ApiExceptionHandler.java
+C:\Users\jayan\OneDrive\Desktop\Projects\StudeyBuddy\backend\src\main\java\com\smartstudy\controller\DeckController.java
+C:\Users\jayan\OneDrive\Desktop\Projects\StudeyBuddy\backend\src\main\java\com\smartstudy\dto\CreateDeckRequest.java
+C:\Users\jayan\OneDrive\Desktop\Projects\StudeyBuddy\backend\src\main\java\com\smartstudy\dto\GenerateDeckRequest.java
+C:\Users\jayan\OneDrive\Desktop\Projects\StudeyBuddy\backend\src\main\java\com\smartstudy\dto\ManualCardRequest.java
+C:\Users\jayan\OneDrive\Desktop\Projects\StudeyBuddy\backend\src\main\java\com\smartstudy\dto\QuizQuestion.java
+C:\Users\jayan\OneDrive\Desktop\Projects\StudeyBuddy\backend\src\main\java\com\smartstudy\dto\ScoreRequest.java
+C:\Users\jayan\OneDrive\Desktop\Projects\StudeyBuddy\backend\src\main\java\com\smartstudy\model\Card.java
+C:\Users\jayan\OneDrive\Desktop\Projects\StudeyBuddy\backend\src\main\java\com\smartstudy\model\Deck.java
+C:\Users\jayan\OneDrive\Desktop\Projects\StudeyBuddy\backend\src\main\java\com\smartstudy\model\QuizScore.java
+C:\Users\jayan\OneDrive\Desktop\Projects\StudeyBuddy\backend\src\main\java\com\smartstudy\repository\DeckRepository.java
+C:\Users\jayan\OneDrive\Desktop\Projects\StudeyBuddy\backend\src\main\java\com\smartstudy\repository\QuizScoreRepository.java
+C:\Users\jayan\OneDrive\Desktop\Projects\StudeyBuddy\backend\src\main\java\com\smartstudy\service\DeckService.java
+C:\Users\jayan\OneDrive\Desktop\Projects\StudeyBuddy\backend\src\main\java\com\smartstudy\service\SmartGeneratorService.java
+C:\Users\jayan\OneDrive\Desktop\Projects\StudeyBuddy\backend\src\main\java\com\smartstudy\SmartStudyApplication.java
