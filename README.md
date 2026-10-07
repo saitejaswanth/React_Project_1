@@ -1,5 +1,4 @@
-# Smart Study — React + Spring Boot + Hibernate
-
+# Smart Study — React
 A responsive full-stack study application for creating study decks from notes, browsing flashcards, taking quizzes, and saving scores.
 
 ## Stack
